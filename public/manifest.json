@@ -1,0 +1,16 @@
+{
+    "name": "Boilerplate",
+    "short_name": "Boilerplate",
+    "icons": [
+      {
+        "src": "/img/star-icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "background_color": "#06092B",
+    "description": "Boilerlate utilizando Typescript, React, NextJS e styled-components!",
+    "display": "fullscreen",
+    "start_url": "/",
+    "theme_color": "#06092B"
+  }

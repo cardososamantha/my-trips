@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  background-image: linear-gradient(to top,#c33764 0%,#1d2671 80%);
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 3rem;
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c1 {
+  font-size: 6.4rem;
+  margin: 2rem 0;
+}
+
+.c2 {
+  font-size: 2.4rem;
+  margin: 2rem 0;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+  width: 60%;
+}
+
+.c4 {
+  width: min(30rem,100%);
+}
+
+<main
+  class="c0"
+>
+  <h1
+    class="c1"
+  >
+    Saturn
+  </h1>
+  <h2
+    class="c2"
+  >
+    Saturn is the sixth planet from the Sun and the second-largest planet in our solar system.
+  </h2>
+  <p
+    class="c3"
+  >
+    Adorned with thousands of beautiful ringlets, Saturn is unique among the planets. It is not the only planet to have rings – made of chunks of ice and rock – but none are as spectacular or as complicated as Saturn's.
+  </p>
+  <img
+    alt="Imagem do planeta Saturno."
+    class="c4"
+    src="/img/saturn.svg"
+  />
+</main>
+`
